@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for DataFlair</title>
+	<atom:link href="https://data-flair.training/blogs/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://data-flair.training/blogs</link>
+	<description>Learn Today. Lead Tomorrow.</description>
+	<lastBuildDate>Sat, 08 Dec 2018 08:56:50 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Comment on Interview Experience &#8211; How An Individual Cracked 11 Big Data Interviews by DataFlair Team</title>
+		<link>https://data-flair.training/blogs/interview-experience-cracked-11-big-data-interviews/comment-page-1/#comment-6059</link>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2018 08:56:50 +0000</pubDate>
+		<guid isPermaLink="false">http://data-flair.training/blogs/?p=1651#comment-6059</guid>
+		<description><![CDATA[We are glad to know that you like our article. As you said you are interested in Hadoop and big data interview questions, you can approach our Interview question category in the main menu. Or you can enroll your self to our Hadoop+Spark course available in the main menu.
+Regards, 
+DataFlair]]></description>
+		<content:encoded><![CDATA[<p>We are glad to know that you like our article. As you said you are interested in Hadoop and big data interview questions, you can approach our Interview question category in the main menu. Or you can enroll your self to our Hadoop+Spark course available in the main menu.<br />
+Regards,<br />
+DataFlair</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Hadoop HDFS Online Quiz Questions and Answers- Part 1 by saroja kumar sahu</title>
+		<link>https://data-flair.training/blogs/hadoop-hdfs-online-quiz-part-1/comment-page-1/#comment-6010</link>
+		<dc:creator><![CDATA[saroja kumar sahu]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2018 05:48:59 +0000</pubDate>
+		<guid isPermaLink="false">http://data-flair.training/blogs/?p=3874#comment-6010</guid>
+		<description><![CDATA[Very nice to take this quiz.. Thank you so much Data Flair]]></description>
+		<content:encoded><![CDATA[<p>Very nice to take this quiz.. Thank you so much Data Flair</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on 7 Best Hive Optimization Techniques &#8211; Hive Performance by Prasanta Kumar</title>
+		<link>https://data-flair.training/blogs/hive-optimization-techniques/comment-page-1/#comment-6002</link>
+		<dc:creator><![CDATA[Prasanta Kumar]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2018 04:46:10 +0000</pubDate>
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=10808#comment-6002</guid>
+		<description><![CDATA[Hi All ,
+
+I have gone through your sites and its content in different fields in hadoop, I was surprised to see the nice explanation. It will help me for my upcoming interviews and so on.
+
+Thanks
+Prasanta]]></description>
+		<content:encoded><![CDATA[<p>Hi All ,</p>
+<p>I have gone through your sites and its content in different fields in hadoop, I was surprised to see the nice explanation. It will help me for my upcoming interviews and so on.</p>
+<p>Thanks<br />
+Prasanta</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Interview Experience &#8211; How An Individual Cracked 11 Big Data Interviews by S Somesh kumar</title>
+		<link>https://data-flair.training/blogs/interview-experience-cracked-11-big-data-interviews/comment-page-1/#comment-5293</link>
+		<dc:creator><![CDATA[S Somesh kumar]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2018 17:55:52 +0000</pubDate>
+		<guid isPermaLink="false">http://data-flair.training/blogs/?p=1651#comment-5293</guid>
+		<description><![CDATA[I want to know sir I have been looking for it since am very much interested!!! So please let me know all the answers for the questions which you mentioned in the third point!!! It will be an great help]]></description>
+		<content:encoded><![CDATA[<p>I want to know sir I have been looking for it since am very much interested!!! So please let me know all the answers for the questions which you mentioned in the third point!!! It will be an great help</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Apache Spark Online Quiz &#8211; Part 1 by DataFlair Team</title>
+		<link>https://data-flair.training/blogs/apache-spark-online-quiz-part-1/comment-page-1/#comment-5223</link>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2018 12:26:09 +0000</pubDate>
+		<guid isPermaLink="false">http://data-flair.training/blogs/?p=1450#comment-5223</guid>
+		<description><![CDATA[Hi Srinivas, 
+
+We are glad, our reader like our efforts. Thanks for choosing DataFlair, hope you are exploring our other Spark Quizzes.
+
+Regards, 
+
+Data-Flair]]></description>
+		<content:encoded><![CDATA[<p>Hi Srinivas, </p>
+<p>We are glad, our reader like our efforts. Thanks for choosing DataFlair, hope you are exploring our other Spark Quizzes.</p>
+<p>Regards, </p>
+<p>Data-Flair</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Spark RDD Operations-Transformation &#038; Action with Example by Nagaraju</title>
+		<link>https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/comment-page-1/#comment-5202</link>
+		<dc:creator><![CDATA[Nagaraju]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2018 11:24:50 +0000</pubDate>
+		<guid isPermaLink="false">http://data-flair.training/blogs/?p=682#comment-5202</guid>
+		<description><![CDATA[kindly provide the out put of program also it makes clear picture of the program]]></description>
+		<content:encoded><![CDATA[<p>kindly provide the out put of program also it makes clear picture of the program</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Python String Tutorial &#8211; Python String Functions &#038; Operations by rakshith</title>
+		<link>https://data-flair.training/blogs/python-string/comment-page-1/#comment-5149</link>
+		<dc:creator><![CDATA[rakshith]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2018 06:59:12 +0000</pubDate>
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=5410#comment-5149</guid>
+		<description><![CDATA[In strings , you can&#039;t print s[-1:-4]. it doesn&#039;t support negative or reverse slicing]]></description>
+		<content:encoded><![CDATA[<p>In strings , you can&#8217;t print s[-1:-4]. it doesn&#8217;t support negative or reverse slicing</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Apache Spark Online Quiz &#8211; Part 1 by srinivas</title>
+		<link>https://data-flair.training/blogs/apache-spark-online-quiz-part-1/comment-page-1/#comment-5118</link>
+		<dc:creator><![CDATA[srinivas]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2018 06:00:30 +0000</pubDate>
+		<guid isPermaLink="false">http://data-flair.training/blogs/?p=1450#comment-5118</guid>
+		<description><![CDATA[Excellent collection i enjoyed, Thanks Team.]]></description>
+		<content:encoded><![CDATA[<p>Excellent collection i enjoyed, Thanks Team.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Difference Between Data Science vs Data Analytics by DataFlair Team</title>
+		<link>https://data-flair.training/blogs/data-science-vs-data-analytics/comment-page-1/#comment-5104</link>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2018 04:21:57 +0000</pubDate>
+		<guid isPermaLink="false">http://data-flair.training/blogs/?p=4066#comment-5104</guid>
+		<description><![CDATA[Thanks Kotrappa,
+Glad to see that you find the comparison helpful. There are more such explanations on different topics which you will enjoy. We recommend you to visit the &lt;a href=&quot;http://data-flair.training/blogs/&quot;&gt;Blog Home Page&lt;/a&gt; and find more such articles. Here you can get a variety of technologies and blogs.
+Happy learning.]]></description>
+		<content:encoded><![CDATA[<p>Thanks Kotrappa,<br />
+Glad to see that you find the comparison helpful. There are more such explanations on different topics which you will enjoy. We recommend you to visit the <a href="http://data-flair.training/blogs/">Blog Home Page</a> and find more such articles. Here you can get a variety of technologies and blogs.<br />
+Happy learning.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Java Mock Test &#124; Test your Java Knowledge In Just 5 Minutes by DataFlair Team</title>
+		<link>https://data-flair.training/blogs/java-mock-test/comment-page-1/#comment-5095</link>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2018 04:02:33 +0000</pubDate>
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=43903#comment-5095</guid>
+		<description><![CDATA[Hi Ramu,
+Thanks for playing the Java Quiz. Your feedback is valuable for us. Hope you have checked the further parts of Java Quiz, if not then you must visit. You will get many more questions there. 
+Here is the link for you
+&lt;a href=&quot;https://data-flair.training/blogs/category/quiz/java-quiz/&quot;&gt;Java Quiz Series&lt;/a&gt;
+Keep learning]]></description>
+		<content:encoded><![CDATA[<p>Hi Ramu,<br />
+Thanks for playing the Java Quiz. Your feedback is valuable for us. Hope you have checked the further parts of Java Quiz, if not then you must visit. You will get many more questions there.<br />
+Here is the link for you<br />
+<a href="https://data-flair.training/blogs/category/quiz/java-quiz/">Java Quiz Series</a><br />
+Keep learning</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

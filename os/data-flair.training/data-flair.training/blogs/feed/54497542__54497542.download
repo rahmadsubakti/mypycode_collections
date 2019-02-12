@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DataFlair</title>
+	<atom:link href="https://data-flair.training/blogs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://data-flair.training/blogs</link>
+	<description>Learn Today. Lead Tomorrow.</description>
+	<lastBuildDate>Sat, 08 Dec 2018 12:19:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+
+<image>
+	<url>https://data-flair.training/blogs/wp-content/uploads/sites/2/2016/11/cropped-DataFlair_Logo_Final_220x100_Transp-32x32.png</url>
+	<title>DataFlair</title>
+	<link>https://data-flair.training/blogs</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hadoop MapReduce Quiz &#8211; Showcase Your Skills</title>
+		<link>https://data-flair.training/blogs/hadoop-mapreduce-quiz/</link>
+		<comments>https://data-flair.training/blogs/hadoop-mapreduce-quiz/#respond</comments>
+		<pubDate>Sat, 08 Dec 2018 10:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[MapReduce Tutorials]]></category>
+		<category><![CDATA[Hadoop MapReduce quiz]]></category>
+		<category><![CDATA[Hadoop MapReduce Test]]></category>
+		<category><![CDATA[MapReduce MCQ]]></category>
+		<category><![CDATA[MapReduce mock test]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44940</guid>
+		<description><![CDATA[<p>1. Hadoop MapReduce Quiz Let&#8217;s test your skills and learning through this Hadoop Mapreduce Quiz. This quiz consists of 20 MCQ&#8217;s about MapReduce, which can enhance your learning and helps to get ready for Hadoop&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/hadoop-mapreduce-quiz/">Hadoop MapReduce Quiz &#8211; Showcase Your Skills</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/hadoop-mapreduce-quiz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ambari Quiz &#8211; Test Your Apache Ambari Expertise</title>
+		<link>https://data-flair.training/blogs/ambari-quiz/</link>
+		<comments>https://data-flair.training/blogs/ambari-quiz/#respond</comments>
+		<pubDate>Sat, 08 Dec 2018 06:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[Ambari Tutorials]]></category>
+		<category><![CDATA[Hadoop Quiz]]></category>
+		<category><![CDATA[Quiz]]></category>
+		<category><![CDATA[Ambari MCQs]]></category>
+		<category><![CDATA[Ambari Multiple Choice Questions]]></category>
+		<category><![CDATA[Ambari Practice set]]></category>
+		<category><![CDATA[Ambari Quiz]]></category>
+		<category><![CDATA[Apache Ambari Quiz Questions]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44359</guid>
+		<description><![CDATA[<p>1. Apache Ambari Online Quiz Do you think you know about Apache Ambari? Take the latest Ambari Quiz and find out. This Ambari Quiz contains a list of questions which will test your learning&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/ambari-quiz/">Ambari Quiz &#8211; Test Your Apache Ambari Expertise</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/ambari-quiz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mobile Cloud Computing &#8211; 4 Unbelievable Benefits of MCC</title>
+		<link>https://data-flair.training/blogs/mobile-cloud-computing-tutorial/</link>
+		<comments>https://data-flair.training/blogs/mobile-cloud-computing-tutorial/#respond</comments>
+		<pubDate>Sat, 08 Dec 2018 04:00:23 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[Cloud Computing Tutorials]]></category>
+		<category><![CDATA[Advantages of MCC]]></category>
+		<category><![CDATA[Architecture of MCC]]></category>
+		<category><![CDATA[How to Execute Applications]]></category>
+		<category><![CDATA[How to Support MCC]]></category>
+		<category><![CDATA[Mobile Cloud Application]]></category>
+		<category><![CDATA[Remote Storage]]></category>
+		<category><![CDATA[What is MCC]]></category>
+		<category><![CDATA[Why Choosing MCC]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44722</guid>
+		<description><![CDATA[<p>1. Mobile Cloud Computing Tutorial We close our last session, on Virtualization in Cloud Computing. Today, we will talk about my favourite topic, Mobile Cloud Computing (MCC). Here, we will learn the architecture of&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/mobile-cloud-computing-tutorial/">Mobile Cloud Computing &#8211; 4 Unbelievable Benefits of MCC</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/mobile-cloud-computing-tutorial/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AWS Practice Test &#8211; Brush Up Your Skills in 9 Min Only</title>
+		<link>https://data-flair.training/blogs/aws-practice-test/</link>
+		<comments>https://data-flair.training/blogs/aws-practice-test/#respond</comments>
+		<pubDate>Sat, 08 Dec 2018 03:45:51 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[AWS Tutorials]]></category>
+		<category><![CDATA[Amazon MCQ]]></category>
+		<category><![CDATA[Amazon Mock Test]]></category>
+		<category><![CDATA[Amazon Quiz]]></category>
+		<category><![CDATA[Amazon Web Service Quiz]]></category>
+		<category><![CDATA[AWS Mock Test]]></category>
+		<category><![CDATA[AWS Practice Test]]></category>
+		<category><![CDATA[AWS Quiz]]></category>
+		<category><![CDATA[aws quiz online]]></category>
+		<category><![CDATA[Free AWS Quiz]]></category>
+		<category><![CDATA[Online AWS Quiz]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44540</guid>
+		<description><![CDATA[<p>AWS Practice Test Hope you like our AWS Quiz Part &#8211; 3. This is the last AWS quiz of the series, take it as a challenge and crack it. In this AWS Practice test,&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/aws-practice-test/">AWS Practice Test &#8211; Brush Up Your Skills in 9 Min Only</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/aws-practice-test/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Latest Salesforce Quiz Questions &#8211; Examine Your Skills</title>
+		<link>https://data-flair.training/blogs/salesforce-quiz-questions/</link>
+		<comments>https://data-flair.training/blogs/salesforce-quiz-questions/#respond</comments>
+		<pubDate>Fri, 07 Dec 2018 08:24:56 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[Quiz]]></category>
+		<category><![CDATA[Salesforce Quiz]]></category>
+		<category><![CDATA[Salesforce Tutorials]]></category>
+		<category><![CDATA[online salesforce Quiz]]></category>
+		<category><![CDATA[Preparation for Salesforce Interview]]></category>
+		<category><![CDATA[salesforce MCQ's]]></category>
+		<category><![CDATA[Salesforce Moct Test]]></category>
+		<category><![CDATA[Salesforce Practise set]]></category>
+		<category><![CDATA[Salesforce Quiz Questions]]></category>
+		<category><![CDATA[Salesforce Speed test]]></category>
+		<category><![CDATA[Top salesforce Quiz Questions]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=26560</guid>
+		<description><![CDATA[<p>1. Online Salesforce Quiz Questions In our last session, we discussed Salesforce Quiz Questions Part 1. Today, we will see the next part of Salesforce Quiz Questions. This article of Salesforce Quiz Questions contains&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/salesforce-quiz-questions/">Latest Salesforce Quiz Questions &#8211; Examine Your Skills</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/salesforce-quiz-questions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Qlik Sense Script Syntax &#8211; Backus-Naur Formalism</title>
+		<link>https://data-flair.training/blogs/qlik-sense-script-syntax/</link>
+		<comments>https://data-flair.training/blogs/qlik-sense-script-syntax/#respond</comments>
+		<pubDate>Fri, 07 Dec 2018 07:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[Qlik Sense Tutorials]]></category>
+		<category><![CDATA[backus naur form]]></category>
+		<category><![CDATA[Qlik Sense Script Expressions]]></category>
+		<category><![CDATA[Qlik Sense Script Syntax]]></category>
+		<category><![CDATA[Script Statements and Keywords]]></category>
+		<category><![CDATA[Script Syntax in Qlik Sense]]></category>
+		<category><![CDATA[Variables in Data Load Editor]]></category>
+		<category><![CDATA[What is Qlik Sense Script Syntax]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44508</guid>
+		<description><![CDATA[<p>1. Objective In our last session, we discussed Qlik Sense Visualization Expression. Today, we will see Qlik Sense Script Syntax. In this lesson, we are going to learn about how data tables are loaded&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/qlik-sense-script-syntax/">Qlik Sense Script Syntax &#8211; Backus-Naur Formalism</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/qlik-sense-script-syntax/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AWS Quiz Questions &#8211; To Crack AWS Interview Easily</title>
+		<link>https://data-flair.training/blogs/aws-quiz-questions/</link>
+		<comments>https://data-flair.training/blogs/aws-quiz-questions/#respond</comments>
+		<pubDate>Fri, 07 Dec 2018 04:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[AWS Tutorials]]></category>
+		<category><![CDATA[Amazon MCQ]]></category>
+		<category><![CDATA[Amazon Mock Test]]></category>
+		<category><![CDATA[Amazon Quiz]]></category>
+		<category><![CDATA[Amazon Web Service Quiz]]></category>
+		<category><![CDATA[AWS Mock Test]]></category>
+		<category><![CDATA[AWS Practice Test]]></category>
+		<category><![CDATA[AWS Quiz]]></category>
+		<category><![CDATA[aws quiz online]]></category>
+		<category><![CDATA[Online AWS Quiz]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44522</guid>
+		<description><![CDATA[<p>AWS Quiz Questions Preparing for AWS Interview? Don&#8217;t be stressed, take our AWS quiz questions and prepare your self for the interview. In our last AWS Quiz Part &#8211; 2, we saw tricky many&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/aws-quiz-questions/">AWS Quiz Questions &#8211; To Crack AWS Interview Easily</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/aws-quiz-questions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Big Data Job Updates Part-155</title>
+		<link>https://data-flair.training/blogs/big-data-job-updates-part-155/</link>
+		<comments>https://data-flair.training/blogs/big-data-job-updates-part-155/#respond</comments>
+		<pubDate>Thu, 06 Dec 2018 10:09:09 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[big data job updates 2018]]></category>
+		<category><![CDATA[big data jobs across the world]]></category>
+		<category><![CDATA[career in big data industry]]></category>
+		<category><![CDATA[current opening in big data jobs]]></category>
+		<category><![CDATA[hadoop big data jobs]]></category>
+		<category><![CDATA[latest big data jobs in foreign]]></category>
+		<category><![CDATA[latest big data jobs in india]]></category>
+		<category><![CDATA[scope in big data industry]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44509</guid>
+		<description><![CDATA[<p>1. Objective This article, Big Data Job Updates Part-155 provides latest Jobs in big data industry for those who are searching and applying for the Big Data jobs. It&#8217;s a full-time opportunity to apply. Just click on your&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/big-data-job-updates-part-155/">Big Data Job Updates Part-155</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/big-data-job-updates-part-155/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Virtualization in Cloud Computing &#8211; Benefits &#038; Types of Virtualization</title>
+		<link>https://data-flair.training/blogs/virtualization-in-cloud-computing/</link>
+		<comments>https://data-flair.training/blogs/virtualization-in-cloud-computing/#respond</comments>
+		<pubDate>Thu, 06 Dec 2018 08:25:41 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[Cloud Computing Tutorials]]></category>
+		<category><![CDATA[Advantages of Virtualization]]></category>
+		<category><![CDATA[Architecture of Virtualization]]></category>
+		<category><![CDATA[Cloud Computing Virtualization]]></category>
+		<category><![CDATA[Cloud Virtualization]]></category>
+		<category><![CDATA[Cloud Virtualization Tutorial]]></category>
+		<category><![CDATA[Types of Virtualization]]></category>
+		<category><![CDATA[Virtualization in Cloud Computing]]></category>
+		<category><![CDATA[What is Virtualization]]></category>
+		<category><![CDATA[Working of Virtualization]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=44507</guid>
+		<description><![CDATA[<p>1. Objective The last session was all about Cloud Security. Here, we come up with a new concept called Virtualization in Cloud Computing, in which we will explore its working. Along with this, we&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/virtualization-in-cloud-computing/">Virtualization in Cloud Computing &#8211; Benefits &amp; Types of Virtualization</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/virtualization-in-cloud-computing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Top 25 Salesforce Quiz Questions &#8211; Sharpen Your Skills</title>
+		<link>https://data-flair.training/blogs/salesforce-quiz/</link>
+		<comments>https://data-flair.training/blogs/salesforce-quiz/#respond</comments>
+		<pubDate>Thu, 06 Dec 2018 07:05:19 +0000</pubDate>
+		<dc:creator><![CDATA[DataFlair Team]]></dc:creator>
+				<category><![CDATA[Quiz]]></category>
+		<category><![CDATA[Salesforce Quiz]]></category>
+		<category><![CDATA[Salesforce Tutorials]]></category>
+		<category><![CDATA[free Salesforce Quiz]]></category>
+		<category><![CDATA[questions for salesforce Quiz]]></category>
+		<category><![CDATA[salesforce MCQ's]]></category>
+		<category><![CDATA[Salesforce Mock test]]></category>
+		<category><![CDATA[Salesforce Multiple choice Questions]]></category>
+		<category><![CDATA[Salesforce online Quiz]]></category>
+		<category><![CDATA[Salesforce Practise set]]></category>
+		<category><![CDATA[salesforce Quiz]]></category>
+		<category><![CDATA[Salesforce Quiz Questions]]></category>
+		<category><![CDATA[Top salesforce Quiz Questions]]></category>
+
+		<guid isPermaLink="false">https://data-flair.training/blogs/?p=26543</guid>
+		<description><![CDATA[<p>1. Free Online Salesforce Quiz After learning Salesforce tutorials, try your knowledge on the latest Salesforce Quiz Questions. You can check your performance through this online Salesforce Quiz. The pattern of this Salesforce Quiz&#46;&#46;&#46;</p>
+<p>The post <a rel="nofollow" href="https://data-flair.training/blogs/salesforce-quiz/">Top 25 Salesforce Quiz Questions &#8211; Sharpen Your Skills</a> appeared first on <a rel="nofollow" href="https://data-flair.training/blogs">DataFlair</a>.</p>
+]]></description>
+		<wfw:commentRss>https://data-flair.training/blogs/salesforce-quiz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
